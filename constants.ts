@@ -6,8 +6,8 @@ export const COLORS = {
 };
 
 export const CONTACT_INFO = {
-  agent: "Cheryl Foote",
-  phone: "970-846-6444",
+  agent: "Randall Hannaway & Kevin Detrich",
+  phone: "970-875-2932",
   address: "42485 Deerfoot Ln, Steamboat Springs, CO",
 };
 
