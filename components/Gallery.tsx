@@ -6,7 +6,7 @@ const Gallery: React.FC = () => {
       {/* Parallax Section */}
       <div 
         className="relative h-[60vh] bg-fixed bg-center bg-cover flex items-center justify-center"
-        style={{ backgroundImage: 'url("https://images.unsplash.com/photo-1495616811223-4d98c6e9d869?q=80&w=2600&auto=format&fit=crop")' }}
+        style={{ backgroundImage: 'url("https://venga.run/wp-content/uploads/home-images/SG-2.webp?q=80&w=2600&auto=format&fit=crop")' }}
       >
         <div className="absolute inset-0 bg-black/30"></div>
         <div className="relative z-10 text-center px-4">
