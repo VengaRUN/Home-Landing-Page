@@ -40,7 +40,7 @@ const Contact: React.FC = () => {
                 </a>
                 <button className="flex items-center justify-center gap-3 border border-gray-600 hover:border-white hover:text-secondary text-gray-300 px-6 py-4 transition duration-300 uppercase tracking-wider font-medium text-sm">
                   <Mail size={18} />
-                  Email Cheryl
+                  Email Us
                 </button>
               </div>
             </div>
