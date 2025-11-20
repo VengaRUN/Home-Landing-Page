@@ -51,7 +51,7 @@ const Features: React.FC = () => {
       title: "Treehouse Vibes",
       description: "3+ Acres of Privacy",
       detail: "Surrounded by trees in every direction. It’s like living in a grown-up treehouse, but with hot water and a killer deck. In winter, snow dusts the branches just so.",
-      image: "https://images.unsplash.com/photo-1449156493391-d2cfa28e468e?q=80&w=2674&auto=format&fit=crop"
+      image: "https://venga.run/wp-content/uploads/home-images/TreeHouse.webp?q=80&w=2674&auto=format&fit=crop"
     },
     {
       icon: <Star size={28} />,
