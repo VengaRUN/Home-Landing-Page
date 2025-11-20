@@ -6,7 +6,7 @@ const Gallery: React.FC = () => {
       {/* Parallax Section */}
       <div 
         className="relative h-[60vh] bg-fixed bg-center bg-cover flex items-center justify-center"
-        style={{ backgroundImage: 'url("https://venga.run/wp-content/uploads/home-images/SG-2.webp?q=80&w=2600&auto=format&fit=crop")' }}
+        style={{ backgroundImage: 'url("https://venga.run/wp-content/uploads/home-images/Sg-1.webp?q=80&w=2600&auto=format&fit=crop")' }}
       >
         <div className="absolute inset-0 bg-black/30"></div>
         <div className="relative z-10 text-center px-4">
@@ -26,7 +26,7 @@ const Gallery: React.FC = () => {
         </div>
         <div className="h-[500px] md:h-auto">
             <img 
-                src="https://images.unsplash.com/photo-1595846519845-68e298c2edd8?q=80&w=2670&auto=format&fit=crop" 
+                src="https://venga.run/wp-content/uploads/home-images/Dinner1.webp?q=80&w=2670&auto=format&fit=crop" 
                 alt="Relaxing deck scene" 
                 className="w-full h-full object-cover"
             />
@@ -38,7 +38,7 @@ const Gallery: React.FC = () => {
           <div className="max-w-5xl mx-auto bg-white shadow-xl overflow-hidden flex flex-col md:flex-row rounded-sm">
               <div className="md:w-1/2 h-80 md:h-auto">
                    <img 
-                    src="https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=2670&auto=format&fit=crop"
+                    src="https://venga.run/wp-content/uploads/home-images/Downstairs1.webp?q=80&w=2670&auto=format&fit=crop"
                     alt="Wide open interior living space"
                     className="w-full h-full object-cover"
                    />
