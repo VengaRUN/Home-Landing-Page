@@ -8,7 +8,7 @@ const Hero: React.FC = () => {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=2574&auto=format&fit=crop" 
+          src="https://venga.run/wp-content/uploads/home-images/Hero1.webp?q=80&w=2574&auto=format&fit=crop" 
           alt="Steamboat Springs Mountain Landscape" 
           className="w-full h-full object-cover"
         />
