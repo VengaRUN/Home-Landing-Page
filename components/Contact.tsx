@@ -22,8 +22,8 @@ const Contact: React.FC = () => {
               <div className="flex items-center gap-4 mb-6">
                 <div className="w-16 h-16 bg-gray-500 rounded-full overflow-hidden border-2 border-secondary">
                    <img 
-                    src="https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1000&auto=format&fit=crop" 
-                    alt="Cheryl Foote" 
+                    src="https://venga.run/wp-content/uploads/home-images/RH-KD.webp?q=80&w=1000&auto=format&fit=crop" 
+                    alt="Randall Hannaway & Kevin Detrich" 
                     className="w-full h-full object-cover"
                    />
                 </div>
