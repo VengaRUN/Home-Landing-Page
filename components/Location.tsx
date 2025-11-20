@@ -63,7 +63,7 @@ const Location: React.FC = () => {
           <div className="md:w-1/2 relative">
             <div className="relative h-[600px] w-full overflow-hidden rounded-sm shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1483653085484-eb63c9f02547?q=80&w=2670&auto=format&fit=crop" 
+                src="https://venga.run/wp-content/uploads/home-images/SG-4-Winter.webp?q=80&w=2670&auto=format&fit=crop" 
                 alt="Snowy winter road in Colorado" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-1000"
               />
