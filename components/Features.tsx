@@ -58,14 +58,14 @@ const Features: React.FC = () => {
       title: "The Night Show",
       description: "Unmatched Stargazing",
       detail: "Forget Netflix. With no streetlights, your nightly entertainment is the Milky Way, meteor showers, and storms rolling over Sleeping Giant.",
-      image: "https://images.unsplash.com/photo-1504333638930-c8787321eee0?q=80&w=2670&auto=format&fit=crop"
+      image: "https://venga.run/wp-content/uploads/home-images/P8-Milkyway.webp?q=80&w=2670&auto=format&fit=crop"
     },
     {
       icon: <Unlock size={28} />,
       title: "Room to Dream",
       description: "No HOA. No Limits.",
       detail: "Want to build a workshop? Park a Sprinter van? This land gives you options, not limits. No clipboard-wielding neighbors here.",
-      image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=2670&auto=format&fit=crop"
+      image: "https://venga.run/wp-content/uploads/home-images/Aerial1.webp?q=80&w=2670&auto=format&fit=crop"
     }
   ];
 
