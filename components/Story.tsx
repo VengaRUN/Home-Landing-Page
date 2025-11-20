@@ -37,7 +37,7 @@ const Story: React.FC = () => {
           <div className="lg:w-1/2 order-1 lg:order-2 relative">
             <div className="relative z-10">
               <img 
-                src="https://images.unsplash.com/photo-1518780664697-55e3ad937233?q=80&w=2565&auto=format&fit=crop" 
+                src="https://venga.run/wp-content/uploads/home-images/DFL-1a.webp?q=80&w=2565&auto=format&fit=crop" 
                 alt="Home nestled in nature" 
                 className="w-full shadow-2xl rounded-sm"
               />
